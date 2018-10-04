@@ -1,1 +1,1 @@
-cmd
+START "" cmd
